@@ -1,5 +1,7 @@
 # Vefforritun 2, 2024, einstaklingsverkefni
 
+[Kynning í fyrirlestri](https://youtu.be/xC0uXvLa9DE).
+
 ## Lýsing
 
 Verkefnið er tvíþætt:
