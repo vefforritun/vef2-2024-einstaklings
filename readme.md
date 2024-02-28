@@ -11,7 +11,7 @@ Verkefnið er tvíþætt:
 
 Ætlast er til að allir vinni og skili verkefni og skýrslu.
 
-### Verkefni og skýrsla
+### Verkefni
 
 Verkefni unnið kringum valið efni og er í formi forrits eða viðmóts sem unnið er frá grunni.
 
@@ -26,6 +26,8 @@ Skilyrði er að verkefnið skal nýta a.m.k. þrennt af eftirfarandi:
 - Hönnunarskjöl útfærð (Figma, UML rit eða álíka) og kynnt í skýrslu.
 - Greining á verkefni unnin fyrirfram t.d. ef verkefnið er stærra en það sem formast innan þessa verkefnis (t.d. tímalínur, niðurbrot á verkþáttum) og kynnt í skýrslu.
 
+### Skýrsla
+
 Skýrsla er skjölun á því hvað var gert og hvernig það tengist vefforritun, hvaða skilyrði og hvernig þau voru uppfyllt.
 
 Form skýrslur skal annaðhvort vera Markdown skjöl í repo (`readme.md` og hugsanlega fleiri skrár) eða sem PDF skjali.
@@ -33,6 +35,13 @@ Form skýrslur skal annaðhvort vera Markdown skjöl í repo (`readme.md` og hug
 Ekki er krafa um ákveðin blaðsíðufjölda en skýrslan skal uppfylla það sem ætlast er til í þessari lýsingu á skýran hátt.
 
 Skrifa má skýrsluna á íslensku eða ensku.
+
+Dæmi um efni sem farið er yfir:
+
+1. Inngangur, hvaða verkefni er valið og afhverju
+2. Hvaða skilyrði eru uppfyllt og hvernig
+3. Hvernig gekk að útfæra: hvað gekk vel, hvað gekk illa, hvað var áhugavert og þannig
+4. Hvað næst? Er þetta eitthvað sem þú ætlar að halda áfram með eða ekki?
 
 ### Kynning
 
@@ -108,8 +117,9 @@ Skráning á þær er sérstaklega tiltekin í verkefnalýsingu á Canvas.
 
 ---
 
-> Útgáfa 0.1
+> Útgáfa 0.2
 
 | Útgáfa | Breyting      |
 | ------ | ------------- |
 | 0.1    | Fyrsta útgáfa |
+| 0.2    | Nánar um skýrslu |
